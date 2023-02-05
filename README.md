@@ -1,2 +1,2 @@
-# GasToGo
+# MedFinder
 software engineering projrct
